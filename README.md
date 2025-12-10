@@ -1,1 +1,2 @@
-# OPI_lab11
+user.name = vlad
+user.email = xxxx@gmail.com
